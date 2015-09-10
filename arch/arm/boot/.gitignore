@@ -1,0 +1,9 @@
+Image
+zImage
+xipImage
+bootpImage
+uImage
+*.dtb
+zImage-dtb
+dts/*/hw-panel-*.dtsi
+dts/*/huawei-lcd.dtsi

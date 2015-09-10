@@ -1,0 +1,9 @@
+ / {
+        huawei_fac_info {
+                  compatible = "huawei,hw_fac_info";
+                  fac,product_name = "HUAWEI C199";
+                  fac,hardware_ver = "HL1G760L071M";
+                  fac,software_ver = "MSM8928_G760-L071_VB";
+                  status = "ok";
+        };
+};
